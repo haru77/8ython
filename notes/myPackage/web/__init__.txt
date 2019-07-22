@@ -1,0 +1,8 @@
+/myPackage
+    __init__.py
+    /math
+        __init__.py
+        formula.py
+    /web
+        __init__.py
+        url.py
